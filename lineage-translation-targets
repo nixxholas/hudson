@@ -1,6 +1,8 @@
 # LineageOS translation target list
 # <branch name> <release_target_version> <jira_ticket> [period: "W"eekly]
 
+# Branch lineage-15.1
+
 # Branch cm-14.1
 
 # Branch cm-13.0
